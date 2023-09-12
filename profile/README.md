@@ -1,12 +1,14 @@
-## Hi there 👋
+<div align='center'>
 
-<!--
+# 🔥ClubToCode (MITM)🔥
+### For the **Students**, By the **Students**
 
-**Here are some ideas to get you started:**
+<br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ClubToCode is the official Tech Community club of [Mahakal Institute of Technology & Management, Ujjain](http://www.mitujjain.ac.in/MITM/) organised and managed by the students. 
+This Community Focuses on building and enhancing Skills of students under the supervision of H.O.D CSE Prof. Deepali Kelkar.
+
+ClubToCode Promotes **Open-Source** and **Learning-in-Public**.
+We embrace Student's Ideas and incourage Them To grow in tech by Building Projects That helps the community and are powered by the community.
+
+</div>
